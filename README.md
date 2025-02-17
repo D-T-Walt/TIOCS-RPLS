@@ -7,11 +7,10 @@
 **Object Oriented Programming (CIT2004) Group Project**
 
 **Contributors:**  
-- Christopher Panther  
-- Diwani Walters – 2303848  
-- Kemone Laws – 2109446  
-- Olivia McFarlane – 2301555  
-- Javone - Anthony Gordon – 2206126  
+- Diwani Walters  
+- Kemone Laws  
+- Olivia McFarlane  
+- Javone - Anthony Gordon
 
 **Date:** November 30, 2024  
 
