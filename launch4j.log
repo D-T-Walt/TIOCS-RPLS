@@ -1,0 +1,39 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\diwan\OneDrive - The University of Technology,Jamaica\UTECH, Ja\Year 2\Semester 1\Object Oriented Programming\Lecture\Group Project\RPLS & TIOCS System.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\diwan\OneDrive - The University of Technology,Jamaica\UTECH, Ja\Year 2\Semester 1\Object Oriented Programming\Lecture\Group Project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\MongoDB\mongosh-2.3.3-win32-x64\bin;C:\Users\diwan\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Users\diwan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\diwan\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_431\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\MongoDB\mongosh-2.3.3-win32-x64\bin;C:\Users\diwan\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Users\diwan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\diwan\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_431\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\mongosh-2.3.3-win32-x64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\diwan\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\diwan\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\diwan\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_431\bin\javaw.exe (OK)
+Version string: 1.008.000_431 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_431\bin\javaw.exe
+Launcher args:	-jar "C:\Users\diwan\OneDrive - The University of Technology,Jamaica\UTECH, Ja\Year 2\Semester 1\Object Oriented Programming\Lecture\Group Project\RPLS & TIOCS System.exe"
+Args length:	171/32768 chars
+Exit code:	0

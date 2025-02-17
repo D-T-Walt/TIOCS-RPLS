@@ -1,0 +1,2 @@
+123-456-789	Diwani Walters Teshome	23 2 2000	2_Baldpate_Way_Kingston_11	850-2495	0 0 0	0 0 0	parish	2	13000.0
+234-567-890	Olivia Elizabeth McFarlane	29 12 2003	2_Mahoe_Drive_Kingston_56	850-2495	0 0 0	0 0 0	parish	1	30000.0

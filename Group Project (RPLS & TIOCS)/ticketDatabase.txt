@@ -1,0 +1,4 @@
+1	123-456-789	28 11 2024	O1	Fender-Bender	3000.00	7821SG	Diwani Walters Teshome	23 2 2000	2_Baldpate_Way_Kingston_11	850-2495	9999	Kemone Althea Laws	Kingston
+2	234-567-890	28 11 2024	O3	Crash	30000.00	7831MN	Olivia Elizabeth McFarlane	29 12 2003	2_Mahoe_Drive_Kingston_56	850-2495	9999	Kemone Althea Laws	Kingston
+3	123-456-789	28 11 2024	O2	Explosion	0.00	8921SS	Diwani Walters Teshome	23 2 2000	2_Baldpate_Way_Kingston_11	850-2495	9999	Kemone Althea Laws	Kingston
+4	123-456-789	30 11 2024	O2	Crash	10000.00	7352WD	Diwani Walters Teshome	23 2 2000	2_Baldpate_Way_Kingston_11	850-2495	8921	Javone Andy Gordon	Manchester
